@@ -3,9 +3,8 @@
 ## Links
 
 [Try the project yourself](https://www.theodinproject.com/lessons/foundations-recipes)
-[Link to live demo]
 
----
+[Link to live demo](https://griffinamaral98.github.io/odin-recipes/)
 
 ## About
 
