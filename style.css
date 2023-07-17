@@ -1,0 +1,36 @@
+/* Body Styles */
+
+body {
+  text-align: center;
+}
+
+a {
+  font-weight: bold;
+}
+
+/* Index Styles */
+
+.odin {
+  height: 150px;
+}
+
+/* Recipe Styles */
+
+div {
+  width: 50%;
+  margin: auto;
+}
+
+div ul,
+div ol {
+  display: inline-block;
+  text-align: left;
+}
+
+#hidden {
+  list-style-type: none;
+}
+
+img {
+  height: 200px;
+}
