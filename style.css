@@ -2,16 +2,37 @@
 
 body {
   text-align: center;
+  background-color: black;
+  color: azure;
 }
 
 a {
   font-weight: bold;
+  text-decoration: none;
+  color: azure;
+}
+
+.button {
+  background-color: lightskyblue;
+  padding: 6px 12px;
+}
+
+.button:hover {
+  background-color: #377eaa;
 }
 
 /* Index Styles */
 
+.title {
+  color: azure;
+}
+
 .odin {
   height: 150px;
+}
+
+.index {
+  list-style: none;
 }
 
 /* Recipe Styles */
